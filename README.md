@@ -10,9 +10,8 @@
 
 I finished my degree in Computer Engineering (Information Systems track) at ISEC, did four internships, one of them in Spain through Erasmus+, and won the **Medal of Excellence** at WorldSkills Portugal 2023 (Mobile Application Development, national level).
 
-I started with CNC machines and industrial automation and moved towards data and AI. My latest internship was as an **AI Engineer at Meight**, in the data team of a Hybrid Search project (Feb–Jun 2026).
+I started my IT Career with CNC machines and industrial automation and moved towards data and AI. My latest internship was as an **AI Engineer at Meight**, in the data team of a Hybrid Search project (Feb–Jun 2026).
 
-I'm looking for my first role as a **Data Analyst**, **Data/AI Engineer** or **Backend Python Developer**.
 
 ## From metal to data
 
