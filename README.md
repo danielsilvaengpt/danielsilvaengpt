@@ -25,8 +25,6 @@ I started my IT Career with CNC machines and industrial automation and moved tow
   <a href="https://github.com/danielsilvaengpt/WaterWise-Calculator"><img src="assets/card-water.svg" alt="WaterWise Calculator: web app for water footprint, built with PHP and MySQL" width="49%"></a>
   <a href="https://github.com/danielsilvaengpt/Python-CNC-Modelling-Controller"><img src="assets/card-cnc.svg" alt="Python CNC Modelling Controller: software for a pin-based 3D modelling machine" width="49%"></a>
   <a href="https://github.com/danielsilvaengpt/IndustrIA"><img src="assets/card-industria.svg" alt="IndustrIA: personal RAG project over industrial maintenance manuals" width="49%"></a>
-  <a href="https://github.com/danielsilvaengpt/WalletX"><img src="assets/card-walletx.svg" alt="WalletX: personal wallet with goal-based sub-accounts and a REST API that splits every amount in exact cents  (Antigravity, Vibe Coding, Python, FastAPI, Pydantic, Pytest)" width="49%"></a>
-</p>
 
 <p align="center">
   <a href="https://dermoscanai.streamlit.app/">Live demo of the skin disease classifier</a> ·
