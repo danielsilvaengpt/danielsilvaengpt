@@ -2,10 +2,9 @@
   <title>Mise: Receitas com IA a partir da tua despensa · Agentic AI · RAG · CrewAI · FastAPI · React</title>
   <defs>
     <style>
-      .tag { font: 600 10px/1 "Segoe UI", "Inter", "Helvetica Neue", Arial, sans-serif; fill: #8A919E; letter-spacing: .5px; text-transform: uppercase; }
-      .title { font: 700 22px/1 "Segoe UI", "Inter", "Helvetica Neue", Arial, sans-serif; fill: #E8EAED; }
-      .desc { font: 400 12px/1.5 "Segoe UI", "Inter", "Helvetica Neue", Arial, sans-serif; fill: #B4BAC4; }
-      .tech { font: 500 11px/1 "Segoe UI", "Inter", "Helvetica Neue", Arial, sans-serif; fill: #FFB020; }
+      text {
+        font-family: "Courier New", Courier, "Lucida Console", monospace;
+      }
     </style>
   </defs>
   <!-- Card background -->
@@ -13,13 +12,13 @@
   <!-- Amber accent bar -->
   <rect x="32" y="26" width="30" height="3" rx="1.5" fill="#FFB020"/>
   <!-- Category tag -->
-  <text x="32" y="58" class="tag">AI · AGENTIC · RECIPE APP</text>
+  <text x="32" y="58" font-size="10" font-weight="600" fill="#8A919E" letter-spacing="1">AI · AGENTIC · RECIPE APP</text>
   <!-- Title -->
-  <text x="32" y="102" class="title">Mise — Receitas com IA</text>
+  <text x="32" y="100" font-size="24" font-weight="700" fill="#E8EAED">Mise — Receitas com IA</text>
   <!-- Description lines -->
-  <text x="32" y="128" class="desc">Aplicação multi-agente que gera receitas personalizadas</text>
-  <text x="32" y="146" class="desc">a partir da despensa do utilizador. Agentes especializados</text>
-  <text x="32" y="164" class="desc">em RAG, nutrição e planeamento de refeições.</text>
-  <!-- Tech stack / footer -->
-  <text x="32" y="216" class="tech">CrewAI · FastAPI · React · Vercel · Gemini API · RAG</text>
+  <text x="32" y="128" font-size="12" fill="#B4BAC4">Aplicação multi-agente que gera receitas</text>
+  <text x="32" y="146" font-size="12" fill="#B4BAC4">personalizadas a partir da despensa do</text>
+  <text x="32" y="164" font-size="12" fill="#B4BAC4">utilizador. Agentes RAG + nutrição + planeamento.</text>
+  <!-- Tech stack footer -->
+  <text x="32" y="213" font-size="11" fill="#FFB020">CrewAI · FastAPI · React · Gemini API · RAG</text>
 </svg>

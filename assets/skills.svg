@@ -2,54 +2,54 @@
   <title>Skills: languages, data and AI, databases, tools</title>
   <defs></defs>
   <rect width="1280" height="352" rx="18" fill="#0D1015" stroke="#232830"/>
-  <text x="50" y="50" font-family="&quot;Segoe UI&quot;,&quot;Inter&quot;,&quot;Helvetica Neue&quot;,Arial,sans-serif" font-size="11" font-weight="600" fill="#8A919E" letter-spacing="0.5" text-transform="uppercase">LANGUAGES</text>
-  <rect x="50" y="72" width="66" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
-  <text x="62" y="89" font-family="&quot;Segoe UI&quot;,&quot;Inter&quot;,&quot;Helvetica Neue&quot;,Arial,sans-serif" font-size="11" font-weight="500" fill="#E8EAED">Python</text>
-  <rect x="124" y="72" width="46" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
-  <text x="136" y="89" font-family="&quot;Segoe UI&quot;,&quot;Inter&quot;,&quot;Helvetica Neue&quot;,Arial,sans-serif" font-size="11" font-weight="500" fill="#E8EAED">SQL</text>
-  <rect x="178" y="72" width="66" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
-  <text x="190" y="89" font-family="&quot;Segoe UI&quot;,&quot;Inter&quot;,&quot;Helvetica Neue&quot;,Arial,sans-serif" font-size="11" font-weight="500" fill="#E8EAED">PL/SQL</text>
-  <rect x="252" y="72" width="53" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
-  <text x="264" y="89" font-family="&quot;Segoe UI&quot;,&quot;Inter&quot;,&quot;Helvetica Neue&quot;,Arial,sans-serif" font-size="11" font-weight="500" fill="#E8EAED">Java</text>
-  <rect x="313" y="72" width="46" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
-  <text x="325" y="89" font-family="&quot;Segoe UI&quot;,&quot;Inter&quot;,&quot;Helvetica Neue&quot;,Arial,sans-serif" font-size="11" font-weight="500" fill="#E8EAED">C++</text>
-  <rect x="367" y="72" width="32" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
-  <text x="379" y="89" font-family="&quot;Segoe UI&quot;,&quot;Inter&quot;,&quot;Helvetica Neue&quot;,Arial,sans-serif" font-size="11" font-weight="500" fill="#E8EAED">C</text>
-  <text x="50" y="128" font-family="&quot;Segoe UI&quot;,&quot;Inter&quot;,&quot;Helvetica Neue&quot;,Arial,sans-serif" font-size="11" font-weight="600" fill="#8A919E" letter-spacing="0.5" text-transform="uppercase">DATA & AI</text>
-  <rect x="50" y="150" width="114" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
-  <text x="62" y="167" font-family="&quot;Segoe UI&quot;,&quot;Inter&quot;,&quot;Helvetica Neue&quot;,Arial,sans-serif" font-size="11" font-weight="500" fill="#E8EAED">Data Analysis</text>
-  <rect x="172" y="150" width="46" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
-  <text x="184" y="167" font-family="&quot;Segoe UI&quot;,&quot;Inter&quot;,&quot;Helvetica Neue&quot;,Arial,sans-serif" font-size="11" font-weight="500" fill="#E8EAED">ETL</text>
-  <rect x="226" y="150" width="134" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
-  <text x="238" y="167" font-family="&quot;Segoe UI&quot;,&quot;Inter&quot;,&quot;Helvetica Neue&quot;,Arial,sans-serif" font-size="11" font-weight="500" fill="#E8EAED">Machine Learning</text>
-  <rect x="368" y="150" width="114" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
-  <text x="380" y="167" font-family="&quot;Segoe UI&quot;,&quot;Inter&quot;,&quot;Helvetica Neue&quot;,Arial,sans-serif" font-size="11" font-weight="500" fill="#E8EAED">Deep Learning</text>
-  <rect x="50" y="182" width="141" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
-  <text x="62" y="199" font-family="&quot;Segoe UI&quot;,&quot;Inter&quot;,&quot;Helvetica Neue&quot;,Arial,sans-serif" font-size="11" font-weight="500" fill="#E8EAED">Transfer Learning</text>
-  <rect x="199" y="182" width="80" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
-  <text x="211" y="199" font-family="&quot;Segoe UI&quot;,&quot;Inter&quot;,&quot;Helvetica Neue&quot;,Arial,sans-serif" font-size="11" font-weight="500" fill="#E8EAED">Power BI</text>
-  <rect x="287" y="182" width="134" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
-  <text x="299" y="199" font-family="&quot;Segoe UI&quot;,&quot;Inter&quot;,&quot;Helvetica Neue&quot;,Arial,sans-serif" font-size="11" font-weight="500" fill="#E8EAED">Data Warehousing</text>
-  <rect x="429" y="182" width="94" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
-  <text x="441" y="199" font-family="&quot;Segoe UI&quot;,&quot;Inter&quot;,&quot;Helvetica Neue&quot;,Arial,sans-serif" font-size="11" font-weight="500" fill="#E8EAED">Agentic AI</text>
-  <rect x="531" y="182" width="46" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
-  <text x="543" y="199" font-family="&quot;Segoe UI&quot;,&quot;Inter&quot;,&quot;Helvetica Neue&quot;,Arial,sans-serif" font-size="11" font-weight="500" fill="#E8EAED">RAG</text>
-  <text x="690" y="50" font-family="&quot;Segoe UI&quot;,&quot;Inter&quot;,&quot;Helvetica Neue&quot;,Arial,sans-serif" font-size="11" font-weight="600" fill="#8A919E" letter-spacing="0.5" text-transform="uppercase">DATABASES</text>
-  <rect x="690" y="72" width="94" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
-  <text x="702" y="89" font-family="&quot;Segoe UI&quot;,&quot;Inter&quot;,&quot;Helvetica Neue&quot;,Arial,sans-serif" font-size="11" font-weight="500" fill="#E8EAED">PostgreSQL</text>
-  <rect x="792" y="72" width="60" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
-  <text x="804" y="89" font-family="&quot;Segoe UI&quot;,&quot;Inter&quot;,&quot;Helvetica Neue&quot;,Arial,sans-serif" font-size="11" font-weight="500" fill="#E8EAED">MySQL</text>
-  <rect x="860" y="72" width="94" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
-  <text x="872" y="89" font-family="&quot;Segoe UI&quot;,&quot;Inter&quot;,&quot;Helvetica Neue&quot;,Arial,sans-serif" font-size="11" font-weight="500" fill="#E8EAED">SQL Server</text>
-  <text x="690" y="128" font-family="&quot;Segoe UI&quot;,&quot;Inter&quot;,&quot;Helvetica Neue&quot;,Arial,sans-serif" font-size="11" font-weight="600" fill="#8A919E" letter-spacing="0.5" text-transform="uppercase">TOOLS</text>
-  <rect x="690" y="150" width="107" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
-  <text x="702" y="167" font-family="&quot;Segoe UI&quot;,&quot;Inter&quot;,&quot;Helvetica Neue&quot;,Arial,sans-serif" font-size="11" font-weight="500" fill="#E8EAED">Git / GitHub</text>
-  <rect x="805" y="150" width="87" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
-  <text x="817" y="167" font-family="&quot;Segoe UI&quot;,&quot;Inter&quot;,&quot;Helvetica Neue&quot;,Arial,sans-serif" font-size="11" font-weight="500" fill="#E8EAED">Streamlit</text>
-  <rect x="900" y="150" width="66" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
-  <text x="912" y="167" font-family="&quot;Segoe UI&quot;,&quot;Inter&quot;,&quot;Helvetica Neue&quot;,Arial,sans-serif" font-size="11" font-weight="500" fill="#E8EAED">CrewAI</text>
-  <rect x="974" y="150" width="73" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
-  <text x="986" y="167" font-family="&quot;Segoe UI&quot;,&quot;Inter&quot;,&quot;Helvetica Neue&quot;,Arial,sans-serif" font-size="11" font-weight="500" fill="#E8EAED">FastAPI</text>
-  <rect x="1055" y="150" width="60" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
-  <text x="1067" y="167" font-family="&quot;Segoe UI&quot;,&quot;Inter&quot;,&quot;Helvetica Neue&quot;,Arial,sans-serif" font-size="11" font-weight="500" fill="#E8EAED">React</text>
+  <text x="50" y="50" font-family='"Courier New", Courier, "Lucida Console", monospace' font-size="11" font-weight="600" fill="#8A919E" letter-spacing="1">LANGUAGES</text>
+  <rect x="50" y="72" width="69" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
+  <text x="62" y="89" font-family='"Courier New", Courier, "Lucida Console", monospace' font-size="11" fill="#E8EAED">Python</text>
+  <rect x="127" y="72" width="47" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
+  <text x="139" y="89" font-family='"Courier New", Courier, "Lucida Console", monospace' font-size="11" fill="#E8EAED">SQL</text>
+  <rect x="182" y="72" width="69" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
+  <text x="194" y="89" font-family='"Courier New", Courier, "Lucida Console", monospace' font-size="11" fill="#E8EAED">PL/SQL</text>
+  <rect x="259" y="72" width="54" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
+  <text x="271" y="89" font-family='"Courier New", Courier, "Lucida Console", monospace' font-size="11" fill="#E8EAED">Java</text>
+  <rect x="321" y="72" width="47" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
+  <text x="333" y="89" font-family='"Courier New", Courier, "Lucida Console", monospace' font-size="11" fill="#E8EAED">C++</text>
+  <rect x="376" y="72" width="33" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
+  <text x="388" y="89" font-family='"Courier New", Courier, "Lucida Console", monospace' font-size="11" fill="#E8EAED">C</text>
+  <text x="50" y="130" font-family='"Courier New", Courier, "Lucida Console", monospace' font-size="11" font-weight="600" fill="#8A919E" letter-spacing="1">DATA & AI</text>
+  <rect x="50" y="152" width="119" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
+  <text x="62" y="169" font-family='"Courier New", Courier, "Lucida Console", monospace' font-size="11" fill="#E8EAED">Data Analysis</text>
+  <rect x="177" y="152" width="47" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
+  <text x="189" y="169" font-family='"Courier New", Courier, "Lucida Console", monospace' font-size="11" fill="#E8EAED">ETL</text>
+  <rect x="232" y="152" width="141" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
+  <text x="244" y="169" font-family='"Courier New", Courier, "Lucida Console", monospace' font-size="11" fill="#E8EAED">Machine Learning</text>
+  <rect x="381" y="152" width="119" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
+  <text x="393" y="169" font-family='"Courier New", Courier, "Lucida Console", monospace' font-size="11" fill="#E8EAED">Deep Learning</text>
+  <rect x="50" y="185" width="148" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
+  <text x="62" y="202" font-family='"Courier New", Courier, "Lucida Console", monospace' font-size="11" fill="#E8EAED">Transfer Learning</text>
+  <rect x="206" y="185" width="83" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
+  <text x="218" y="202" font-family='"Courier New", Courier, "Lucida Console", monospace' font-size="11" fill="#E8EAED">Power BI</text>
+  <rect x="297" y="185" width="141" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
+  <text x="309" y="202" font-family='"Courier New", Courier, "Lucida Console", monospace' font-size="11" fill="#E8EAED">Data Warehousing</text>
+  <rect x="446" y="185" width="98" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
+  <text x="458" y="202" font-family='"Courier New", Courier, "Lucida Console", monospace' font-size="11" fill="#E8EAED">Agentic AI</text>
+  <rect x="552" y="185" width="47" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
+  <text x="564" y="202" font-family='"Courier New", Courier, "Lucida Console", monospace' font-size="11" fill="#E8EAED">RAG</text>
+  <text x="690" y="50" font-family='"Courier New", Courier, "Lucida Console", monospace' font-size="11" font-weight="600" fill="#8A919E" letter-spacing="1">DATABASES</text>
+  <rect x="690" y="72" width="98" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
+  <text x="702" y="89" font-family='"Courier New", Courier, "Lucida Console", monospace' font-size="11" fill="#E8EAED">PostgreSQL</text>
+  <rect x="796" y="72" width="62" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
+  <text x="808" y="89" font-family='"Courier New", Courier, "Lucida Console", monospace' font-size="11" fill="#E8EAED">MySQL</text>
+  <rect x="866" y="72" width="98" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
+  <text x="878" y="89" font-family='"Courier New", Courier, "Lucida Console", monospace' font-size="11" fill="#E8EAED">SQL Server</text>
+  <text x="690" y="130" font-family='"Courier New", Courier, "Lucida Console", monospace' font-size="11" font-weight="600" fill="#8A919E" letter-spacing="1">TOOLS</text>
+  <rect x="690" y="152" width="112" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
+  <text x="702" y="169" font-family='"Courier New", Courier, "Lucida Console", monospace' font-size="11" fill="#E8EAED">Git / GitHub</text>
+  <rect x="810" y="152" width="90" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
+  <text x="822" y="169" font-family='"Courier New", Courier, "Lucida Console", monospace' font-size="11" fill="#E8EAED">Streamlit</text>
+  <rect x="908" y="152" width="69" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
+  <text x="920" y="169" font-family='"Courier New", Courier, "Lucida Console", monospace' font-size="11" fill="#E8EAED">CrewAI</text>
+  <rect x="985" y="152" width="76" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
+  <text x="997" y="169" font-family='"Courier New", Courier, "Lucida Console", monospace' font-size="11" fill="#E8EAED">FastAPI</text>
+  <rect x="1069" y="152" width="62" height="26" rx="6" fill="#161B22" stroke="#2D333B"/>
+  <text x="1081" y="169" font-family='"Courier New", Courier, "Lucida Console", monospace' font-size="11" fill="#E8EAED">React</text>
 </svg>
