@@ -25,12 +25,13 @@ I started my IT Career with CNC machines and industrial automation and moved tow
   <a href="https://github.com/danielsilvaengpt/WaterWise-Calculator"><img src="assets/card-water.svg" alt="WaterWise Calculator: web app for water footprint, built with PHP and MySQL" width="49%"></a>
   <a href="https://github.com/danielsilvaengpt/Python-CNC-Modelling-Controller"><img src="assets/card-cnc.svg" alt="Python CNC Modelling Controller: software for a pin-based 3D modelling machine" width="49%"></a>
   <a href="https://github.com/danielsilvaengpt/IndustrIA"><img src="assets/card-industria.svg" alt="IndustrIA: personal RAG project over industrial maintenance manuals" width="49%"></a>
-  <a href="https://github.com/danielsilvaengpt/mise-recipe-agents"><img src="assets/card-mise.svg" alt="Mise: multi-agent recipe app — Agentic AI, RAG, CrewAI, FastAPI, React" width="49%"></a>
+  <a href="https://github.com/danielsilvaengpt/mise-recipe-agents"><img src="assets/card-mise.svg" alt="Mise: multi-agent recipe app that turns your pantry into recipes, built with CrewAI, FastAPI and React" width="49%"></a>
+</p>
 
 <p align="center">
   <a href="https://dermoscanai.streamlit.app/">Live demo of the skin disease classifier</a> ·
   <a href="https://github.com/danielsilvaengpt/An-lise-Dados-Portu-rio/blob/main/PowerBI_analise_Imagens_Resultados.pdf">Power BI dashboards (PDF)</a> ·
-  <a href="https://mise-recipe-agents.vercel.app/">Mise — Receitas com IA a partir da tua despensa</a>
+  <a href="https://mise-recipe-agents.vercel.app/">Live demo of Mise, the multi-agent recipe app</a>
 </p>
 
 ## Skills
