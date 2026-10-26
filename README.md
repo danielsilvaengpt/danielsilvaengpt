@@ -25,15 +25,17 @@ I started my IT Career with CNC machines and industrial automation and moved tow
   <a href="https://github.com/danielsilvaengpt/WaterWise-Calculator"><img src="assets/card-water.svg" alt="WaterWise Calculator: web app for water footprint, built with PHP and MySQL" width="49%"></a>
   <a href="https://github.com/danielsilvaengpt/Python-CNC-Modelling-Controller"><img src="assets/card-cnc.svg" alt="Python CNC Modelling Controller: software for a pin-based 3D modelling machine" width="49%"></a>
   <a href="https://github.com/danielsilvaengpt/IndustrIA"><img src="assets/card-industria.svg" alt="IndustrIA: personal RAG project over industrial maintenance manuals" width="49%"></a>
+  <a href="https://github.com/danielsilvaengpt/mise-recipe-agents"><img src="assets/card-mise.svg" alt="Mise: multi-agent recipe app — Agentic AI, RAG, CrewAI, FastAPI, React" width="49%"></a>
 
 <p align="center">
   <a href="https://dermoscanai.streamlit.app/">Live demo of the skin disease classifier</a> ·
-  <a href="https://github.com/danielsilvaengpt/An-lise-Dados-Portu-rio/blob/main/PowerBI_analise_Imagens_Resultados.pdf">Power BI dashboards (PDF)</a>
+  <a href="https://github.com/danielsilvaengpt/An-lise-Dados-Portu-rio/blob/main/PowerBI_analise_Imagens_Resultados.pdf">Power BI dashboards (PDF)</a> ·
+  <a href="https://mise-recipe-agents.vercel.app/">Mise — Receitas com IA a partir da tua despensa</a>
 </p>
 
 ## Skills
 
-<img src="assets/skills.svg" alt="Languages: Python, SQL, PL/SQL, Java, C++, C. Data and AI: Data Analysis, ETL, Machine Learning, Deep Learning, Transfer Learning, Power BI, Data Warehousing. Databases: PostgreSQL, MySQL, SQL Server. Tools: Git/GitHub, Streamlit" width="100%">
+<img src="assets/skills.svg" alt="Languages: Python, SQL, PL/SQL, Java, C++, C. Data and AI: Data Analysis, ETL, Machine Learning, Deep Learning, Transfer Learning, Power BI, Data Warehousing, Agentic AI, RAG. Databases: PostgreSQL, MySQL, SQL Server. Tools: Git/GitHub, Streamlit, CrewAI, FastAPI, React" width="100%">
 
 <details>
 <summary>Português</summary>

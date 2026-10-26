@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="244" viewBox="0 0 560 244" role="img">
+  <title>Mise: Receitas com IA a partir da tua despensa · Agentic AI · RAG · CrewAI · FastAPI · React</title>
+  <defs>
+    <style>
+      .tag { font: 600 10px/1 "Segoe UI", "Inter", "Helvetica Neue", Arial, sans-serif; fill: #8A919E; letter-spacing: .5px; text-transform: uppercase; }
+      .title { font: 700 22px/1 "Segoe UI", "Inter", "Helvetica Neue", Arial, sans-serif; fill: #E8EAED; }
+      .desc { font: 400 12px/1.5 "Segoe UI", "Inter", "Helvetica Neue", Arial, sans-serif; fill: #B4BAC4; }
+      .tech { font: 500 11px/1 "Segoe UI", "Inter", "Helvetica Neue", Arial, sans-serif; fill: #FFB020; }
+    </style>
+  </defs>
+  <!-- Card background -->
+  <rect x=".5" y=".5" width="559" height="243" rx="16" fill="#0D1015" stroke="#232830"/>
+  <!-- Amber accent bar -->
+  <rect x="32" y="26" width="30" height="3" rx="1.5" fill="#FFB020"/>
+  <!-- Category tag -->
+  <text x="32" y="58" class="tag">AI · AGENTIC · RECIPE APP</text>
+  <!-- Title -->
+  <text x="32" y="102" class="title">Mise — Receitas com IA</text>
+  <!-- Description lines -->
+  <text x="32" y="128" class="desc">Aplicação multi-agente que gera receitas personalizadas</text>
+  <text x="32" y="146" class="desc">a partir da despensa do utilizador. Agentes especializados</text>
+  <text x="32" y="164" class="desc">em RAG, nutrição e planeamento de refeições.</text>
+  <!-- Tech stack / footer -->
+  <text x="32" y="216" class="tech">CrewAI · FastAPI · React · Vercel · Gemini API · RAG</text>
+</svg>
