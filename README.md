@@ -36,7 +36,7 @@ I build autonomous agents, RAG architectures and data pipelines, from raw data t
 
 <img src="assets/label-skills.svg" alt="03 Skills" width="100%"/>
 
-<img src="assets/skills.svg" alt="Skills: languages, data and AI, tools" width="100%"/>
+<img src="assets/skills (1).svg" alt="Skills: languages, data and AI, tools" width="100%"/>
 
 <br/>
 
