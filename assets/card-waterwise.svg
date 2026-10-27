@@ -1,0 +1,10 @@
+<svg width="590" height="200" viewBox="0 0 590 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="WaterWise-Calculator">
+<rect x=".5" y=".5" width="589" height="199" rx="10" fill="#080808" stroke="#1F1F1F"/>
+<text x="26" y="38" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" letter-spacing="2.4" fill="#505050">FULL-STACK WEB</text>
+<text x="26" y="76" font-family="Inter,'Helvetica Neue',Arial,system-ui,sans-serif" font-size="20" font-weight="700" letter-spacing="-0.4" fill="#F5F5F5">WaterWise-Calculator</text>
+<text x="26" y="104" font-family="Inter,'Helvetica Neue',Arial,system-ui,sans-serif" font-size="14" fill="#A0A0A0">Web application that calculates a person's</text>
+<text x="26" y="124" font-family="Inter,'Helvetica Neue',Arial,system-ui,sans-serif" font-size="14" fill="#A0A0A0">water footprint.</text>
+<text x="26" y="156" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#505050">php · mysql · ajax</text>
+<line x1="26" y1="177" x2="470" y2="177" stroke="#1F1F1F"/>
+<text x="564" y="181" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#E8E8E8">GitHub ↗</text>
+</svg>

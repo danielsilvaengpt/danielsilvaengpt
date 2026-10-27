@@ -1,0 +1,8 @@
+<svg width="1200" height="150" viewBox="0 0 1200 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="From metal to data.">
+<rect x=".5" y=".5" width="1199" height="149" rx="14" fill="#080808" stroke="#1F1F1F"/>
+<text x="600" y="62" text-anchor="middle" font-family="Inter,'Helvetica Neue',Arial,system-ui,sans-serif" font-size="30" font-style="italic" font-weight="500" letter-spacing="-0.6" fill="#E8E8E8">“From metal to data.”</text>
+<text x="600" y="92" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" letter-spacing="2.4" fill="#505050">OPEN TO WORK · BASED IN AVEIRO · AVAILABLE REMOTELY</text>
+<line x1="24" y1="112" x2="1176" y2="112" stroke="#1F1F1F"/>
+<text x="24" y="136" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#A0A0A0">Made with ☕ by Daniel Silva</text>
+<text x="1176" y="136" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#505050">40.6405° N, 8.6538° W</text>
+</svg>
