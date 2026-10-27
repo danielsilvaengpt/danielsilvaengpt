@@ -71,6 +71,4 @@ I build autonomous agents, RAG architectures and data pipelines, from raw data t
 
 <br/>
 
-<img src="assets/label-contact.svg" alt="06 Contact" width="100%"/>
-
 <img src="assets/footer.svg" alt="From metal to data." width="100%"/>
