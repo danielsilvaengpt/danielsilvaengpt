@@ -6,7 +6,7 @@
 
 <a href="https://danielsilvaengpt.github.io/portfolio/"><img src="assets/btn-portfolio.svg" alt="Explore Portfolio" height="44"/></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/O-TEU-LINKEDIN/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="44"/></a>
+<a href="https://www.linkedin.com/in/daniel-silva-eng-pt/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="44"/></a>
 &nbsp;
 <a href="mailto:O-TEU-EMAIL@exemplo.com"><img src="assets/btn-email.svg" alt="Send an email" height="44"/></a>
 
