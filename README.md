@@ -8,7 +8,7 @@
 &nbsp;
 <a href="https://www.linkedin.com/in/O-TEU-LINKEDIN/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="44"/></a>
 &nbsp;
-<a href="mailto:O-TEU-EMAIL@exemplo.com"><img src="assets/btn-email.svg" alt="Send an email" height="44"/></a>
+<a href="mailto:danielsilva.eng.pt@gmail.com"><img src="assets/btn-email.svg" alt="Send an email" height="44"/></a>
 
 </div>
 
