@@ -28,8 +28,8 @@ I build autonomous agents, RAG architectures and data pipelines, from raw data t
 
 | | |
 |---|---|
-| **Autonomous Agents** | LLM orchestration, tool use and agentic workflows with LangChain |
-| **RAG Architectures** | Embeddings and vector search with PostgreSQL and `pgvector` |
+| **Autonomous Agents** | LLM orchestration, tool use and agentic workflows |
+| **RAG Architectures** | Embeddings and vector search  |
 | **Data Engineering** | ETL pipelines, modelling and analysis in Python and SQL |
 
 <br/>
