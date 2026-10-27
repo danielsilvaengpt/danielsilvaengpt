@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="assets/label-about.svg" alt="01 About" width="100%"/>
+<img src="assets/label-about.svg" alt="01 About" width="200%"/>
 
 Computer Engineering student (Information Systems & AI) and **Medal of Excellence** winner at WorldSkills Portugal 2023, in Mobile Application Development.
 
