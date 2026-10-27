@@ -1,50 +1,72 @@
-<p align="center">
-  <img src="assets/banner.svg" alt="Daniel Silva · Junior Computer Engineer · AI & Data Analysis" width="100%">
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://danielsilvaengpt.github.io/portfolio/"><img src="assets/btn-portfolio.svg" alt="Portfolio" height="42"></a>
-  <a href="https://www.linkedin.com/in/daniel-silva-eng-pt/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="42"></a>
-  <a href="mailto:danielsilva.eng.pt@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="42"></a>
-</p>
+<img src="assets/banner.svg" alt="Daniel Silva — Junior Computer Engineer — AI, Autonomous Agents & Data" width="100%"/>
 
-I finished my degree in Computer Engineering (Information Systems track) at ISEC, did four internships, one of them in Spain through Erasmus+, and won the **Medal of Excellence** at WorldSkills Portugal 2023 (Mobile Application Development, national level).
+<br/>
 
-I started my IT Career with CNC machines and industrial automation and moved towards data and AI. My latest internship was as an **AI Engineer at Meight**, in the data team of a Hybrid Search project (Feb–Jun 2026).
+<a href="https://danielsilvaengpt.github.io/portfolio/"><img src="assets/btn-portfolio.svg" alt="Explore Portfolio" height="44"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/O-TEU-LINKEDIN/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="44"/></a>
+&nbsp;
+<a href="mailto:O-TEU-EMAIL@exemplo.com"><img src="assets/btn-email.svg" alt="Send an email" height="44"/></a>
 
+</div>
 
-## From metal to data
+<br/>
 
-<img src="assets/timeline.svg" alt="Career timeline: IT & Hardware at OPTIMA (2022), Software Development at OPTIMA (2023), Full-Stack Development in Málaga through Erasmus+ (2023), AI Engineer at Meight (2026)" width="100%">
+<img src="assets/label-about.svg" alt="01 About" width="100%"/>
 
-## Selected projects
+Computer Engineering student (Information Systems & AI) and **Medal of Excellence** winner at WorldSkills Portugal 2023, in Mobile Application Development.
 
-<p align="center">
-  <a href="https://github.com/danielsilvaengpt/An-lise-Dados-Portu-rio"><img src="assets/card-bi.svg" alt="BI for the Port of Figueira da Foz: Data Mart in a Snowflake schema, Python ETL and Power BI dashboards" width="49%"></a>
-  <a href="https://github.com/danielsilvaengpt/skin-disease-classifier"><img src="assets/card-skin.svg" alt="Skin disease classifier: Transfer Learning with MobileNetV2, 72% accuracy" width="49%"></a>
-  <a href="https://github.com/danielsilvaengpt/WaterWise-Calculator"><img src="assets/card-water.svg" alt="WaterWise Calculator: web app for water footprint, built with PHP and MySQL" width="49%"></a>
-  <a href="https://github.com/danielsilvaengpt/Python-CNC-Modelling-Controller"><img src="assets/card-cnc.svg" alt="Python CNC Modelling Controller: software for a pin-based 3D modelling machine" width="49%"></a>
-  <a href="https://github.com/danielsilvaengpt/IndustrIA"><img src="assets/card-industria.svg" alt="IndustrIA: personal RAG project over industrial maintenance manuals" width="49%"></a>
-  <a href="https://github.com/danielsilvaengpt/mise-recipe-agents"><img src="assets/card-mise.svg" alt="Mise: multi-agent recipe app that turns your pantry into recipes, built with CrewAI, FastAPI and React" width="49%"></a>
-</p>
+I build autonomous agents, RAG architectures and data pipelines, from raw data to a system that actually runs. My path started in hands-on, technical work, and that's where the idea comes from:
 
-<p align="center">
-  <a href="https://dermoscanai.streamlit.app/">Live demo of the skin disease classifier</a> ·
-  <a href="https://github.com/danielsilvaengpt/An-lise-Dados-Portu-rio/blob/main/PowerBI_analise_Imagens_Resultados.pdf">Power BI dashboards (PDF)</a> ·
-  <a href="https://mise-recipe-agents.vercel.app/">Live demo of Mise, the multi-agent recipe app</a>
-</p>
+> *From metal to data.*
 
-## Skills
+<br/>
 
-<img src="assets/skills.svg" alt="Languages: Python, SQL, PL/SQL, Java, C++, C. Data and AI: Data Analysis, ETL, Machine Learning, Deep Learning, Transfer Learning, Power BI, Data Warehousing, Agentic AI, RAG. Databases: PostgreSQL, MySQL, SQL Server. Tools: Git/GitHub, Streamlit, CrewAI, FastAPI, React" width="100%">
+<img src="assets/label-focus.svg" alt="02 Focus" width="100%"/>
 
-<details>
-<summary>Português</summary>
+| | |
+|---|---|
+| **Autonomous Agents** | LLM orchestration, tool use and agentic workflows with LangChain |
+| **RAG Architectures** | Embeddings and vector search with PostgreSQL and `pgvector` |
+| **Data Engineering** | ETL pipelines, modelling and analysis in Python and SQL |
 
-Terminei Engenharia Informática no ISEC, no ramo de Sistemas de Informação, fiz quatro estágios (um deles em Espanha, com o Erasmus+) e ganhei a Medalha de Excelência no WorldSkills Portugal 2023 (Desenvolvimento de Aplicações Móveis, nível nacional).
+<br/>
 
-Comecei nas máquinas CNC e na automação industrial e fui avançando para os dados e a IA. O último estágio foi como **IA Engineer na Meight**, na equipa de dados de um projeto de Hybrid Search (Fev–Jun 2026).
+<img src="assets/label-skills.svg" alt="03 Skills" width="100%"/>
 
-Procuro a minha primeira função como **Analista de Dados**, **Engenheiro de Dados/IA** ou **Backend Python Developer**.
+<img src="assets/skills.svg" alt="Skills: languages, data and AI, tools" width="100%"/>
 
-</details>
+<br/>
+
+<img src="assets/label-projects.svg" alt="04 Projects" width="100%"/>
+
+<table>
+<tr>
+<td><a href="https://github.com/danielsilvaengpt/Python-CNC-Modelling-Controller"><img src="assets/card-python-cnc.svg" alt="Python-CNC-Modelling-Controller" width="100%"/></a></td>
+<td><a href="https://github.com/danielsilvaengpt/WaterWise-Calculator"><img src="assets/card-waterwise.svg" alt="WaterWise-Calculator" width="100%"/></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/danielsilvaengpt/skin-disease-classifier"><img src="assets/card-skin.svg" alt="skin-disease-classifier" width="100%"/></a></td>
+<td><a href="https://github.com/danielsilvaengpt/An-lise-Dados-Portu-rio"><img src="assets/card-portuario.svg" alt="Análise Dados Portuário" width="100%"/></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/danielsilvaengpt/MyMedia"><img src="assets/card-mymedia.svg" alt="MyMedia" width="100%"/></a></td>
+<td><a href="https://github.com/danielsilvaengpt/Licenciatura-Engenharia-Inform-tica"><img src="assets/card-degree.svg" alt="Licenciatura-Engenharia-Informática" width="100%"/></a></td>
+</tr>
+</table>
+
+<br/>
+
+<img src="assets/label-education.svg" alt="05 Education" width="100%"/>
+
+**🏅 Medal of Excellence**, WorldSkills Portugal 2023 · Mobile Application Development
+
+**BSc in Computer Engineering**, Information Systems & AI (in progress)
+
+<br/>
+
+<img src="assets/label-contact.svg" alt="06 Contact" width="100%"/>
+
+<img src="assets/footer.svg" alt="From metal to data." width="100%"/>
