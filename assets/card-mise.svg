@@ -1,48 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="590" height="240" viewBox="0 0 590 240" role="img" aria-label="Mise — Receitas com IA &amp; Brigada Agêntica">
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="240" viewBox="0 0 590 240" role="img" aria-label="Mise — AI Recipe Agents &amp; Group">
   <defs>
     <style>
-      .title { font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 19px; font-weight: 700; fill: #F8FAFC; }
-      .desc { font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 13.5px; fill: #94A3B8; }
-      .mono-meta { font-family: 'JetBrains Mono', monospace; font-size: 11px; font-weight: 600; letter-spacing: 1.8px; fill: #64748B; }
-      .mono-link { font-family: 'JetBrains Mono', monospace; font-size: 12px; fill: #64748B; }
-      .mono-btn { font-family: 'JetBrains Mono', monospace; font-size: 12px; font-weight: 600; fill: #60A5FA; }
+      .title { font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 20px; font-weight: 700; fill: #FFFFFF; }
+      .desc { font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 14px; font-weight: 400; fill: #E2E8F0; }
+      .mono-meta { font-family: 'JetBrains Mono', monospace; font-size: 11.5px; font-weight: 700; letter-spacing: 1.8px; fill: #94A3B8; }
+      .mono-link { font-family: 'JetBrains Mono', monospace; font-size: 12.5px; font-weight: 500; fill: #94A3B8; }
+      .mono-btn { font-family: 'JetBrains Mono', monospace; font-size: 12.5px; font-weight: 700; fill: #60A5FA; }
     </style>
   </defs>
 
-  <!-- Card surface -->
-  <rect x=".5" y=".5" width="589" height="239" rx="12" fill="#111827" stroke="#1E293B"/>
+  <!-- Card surface with sharp border -->
+  <rect x=".5" y=".5" width="589" height="239" rx="12" fill="#0E1626" stroke="#2B374E" stroke-width="1.2"/>
 
   <!-- Accent top line -->
-  <rect x="24" y="20" width="28" height="3" rx="1.5" fill="#F59E0B"/>
+  <rect x="24" y="19" width="32" height="3.5" rx="1.75" fill="#F59E0B"/>
 
   <!-- Category & Index -->
   <text x="24" y="44" class="mono-meta">AGENTIC AI · MULTI-AGENT</text>
   <text x="566" y="44" text-anchor="end" class="mono-meta">01 // 2026</text>
 
   <!-- Title -->
-  <text x="24" y="80" class="title">Mise — Receitas com IA &amp; Brigada Agêntica</text>
+  <text x="24" y="80" class="title">Mise — AI Recipe Agents &amp; Group</text>
 
-  <!-- Description -->
-  <text x="24" y="108" class="desc">Sistema multi-agente que gera receitas a partir da despensa real,</text>
-  <text x="24" y="128" class="desc">auditando ingredientes em falta. Desenvolvido com metodologia CDD.</text>
+  <!-- Description with high contrast -->
+  <text x="24" y="108" class="desc">Multi-agent system generating tailored recipes from pantry items,</text>
+  <text x="24" y="128" class="desc">auditing missing ingredients. Built with CDD methodology &amp; CrewAI.</text>
 
   <!-- Tag Pills -->
-  <rect x="24" y="152" width="60" height="26" rx="5" fill="#1E293B" stroke="#334155"/>
-<text x="54" y="169" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" fill="#E2E8F0">CrewAI</text>
-<rect x="92" y="152" width="67" height="26" rx="5" fill="#1E293B" stroke="#334155"/>
-<text x="125" y="169" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" fill="#E2E8F0">FastAPI</text>
-<rect x="167" y="152" width="75" height="26" rx="5" fill="#1E293B" stroke="#334155"/>
-<text x="204" y="169" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" fill="#E2E8F0">React 19</text>
-<rect x="250" y="152" width="90" height="26" rx="5" fill="#1E293B" stroke="#334155"/>
-<text x="295" y="169" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" fill="#E2E8F0">TypeScript</text>
-<rect x="348" y="152" width="60" height="26" rx="5" fill="#1E293B" stroke="#334155"/>
-<text x="378" y="169" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" fill="#E2E8F0">Python</text>
+  <rect x="24" y="150" width="63" height="27" rx="5" fill="#1E293B" stroke="#475569" stroke-width="1.2"/>
+<text x="55" y="168" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="600" fill="#F8FAFC">CrewAI</text>
+<rect x="95" y="150" width="71" height="27" rx="5" fill="#1E293B" stroke="#475569" stroke-width="1.2"/>
+<text x="130" y="168" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="600" fill="#F8FAFC">FastAPI</text>
+<rect x="174" y="150" width="78" height="27" rx="5" fill="#1E293B" stroke="#475569" stroke-width="1.2"/>
+<text x="213" y="168" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="600" fill="#F8FAFC">React 19</text>
+<rect x="260" y="150" width="94" height="27" rx="5" fill="#1E293B" stroke="#475569" stroke-width="1.2"/>
+<text x="307" y="168" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="600" fill="#F8FAFC">TypeScript</text>
+<rect x="362" y="150" width="63" height="27" rx="5" fill="#1E293B" stroke="#475569" stroke-width="1.2"/>
+<text x="393" y="168" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="600" fill="#F8FAFC">Python</text>
 
 
   <!-- Divider -->
-  <line x1="24" y1="194" x2="566" y2="194" stroke="#1E293B"/>
+  <line x1="24" y1="193" x2="566" y2="193" stroke="#2B374E" stroke-width="1.2"/>
 
   <!-- Footer link -->
   <text x="24" y="219" class="mono-link">github.com/danielsilvaengpt/mise-recipe-agents</text>
-  <text x="566" y="219" text-anchor="end" class="mono-btn">Ver Projeto ↗</text>
+  <text x="566" y="219" text-anchor="end" class="mono-btn">View Project ↗</text>
 </svg>

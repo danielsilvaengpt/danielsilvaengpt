@@ -1,81 +1,81 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-label="Competências Técnicas">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-label="Technical Skills &amp; Stack">
   <defs>
     <style>
-      .cat-head { font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 11px; font-weight: 700; fill: #64748B; letter-spacing: 1.5px; }
-      .sk-text { font-family: 'JetBrains Mono', monospace; font-size: 11px; fill: #CBD5E1; }
-      .sk-text-primary { font-family: 'JetBrains Mono', monospace; font-size: 11px; font-weight: 600; fill: #FFFFFF; }
+      .cat-head { font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 11.5px; font-weight: 700; fill: #94A3B8; letter-spacing: 1.5px; }
+      .sk-text { font-family: 'JetBrains Mono', monospace; font-size: 11.5px; font-weight: 500; fill: #F1F5F9; }
+      .sk-text-primary { font-family: 'JetBrains Mono', monospace; font-size: 11.5px; font-weight: 700; fill: #FFFFFF; }
     </style>
   </defs>
-  <rect width="1200" height="310" rx="14" fill="#0B0F17" stroke="#1E293B"/>
-  <text x="48" y="42" class="cat-head">LINGUAGENS / LANGUAGES</text>
-  <rect x="48" y="58" width="60" height="25" rx="5" fill="#1E293B" stroke="#3B82F6"/>
-  <text x="78" y="74" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600" fill="#FFFFFF">Python</text>
-  <rect x="115" y="58" width="38" height="25" rx="5" fill="#1E293B" stroke="#3B82F6"/>
-  <text x="134" y="74" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600" fill="#FFFFFF">SQL</text>
-  <rect x="160" y="58" width="60" height="25" rx="5" fill="#1E293B" stroke="#3B82F6"/>
-  <text x="190" y="74" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600" fill="#FFFFFF">PL/SQL</text>
-  <rect x="227" y="58" width="45" height="25" rx="5" fill="#111827" stroke="#1E293B"/>
-  <text x="249" y="74" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="400" fill="#94A3B8">Java</text>
-  <rect x="279" y="58" width="38" height="25" rx="5" fill="#111827" stroke="#1E293B"/>
-  <text x="298" y="74" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="400" fill="#94A3B8">C++</text>
-  <rect x="324" y="58" width="23" height="25" rx="5" fill="#111827" stroke="#1E293B"/>
-  <text x="335" y="74" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="400" fill="#94A3B8">C</text>
-  <rect x="354" y="58" width="38" height="25" rx="5" fill="#111827" stroke="#1E293B"/>
-  <text x="373" y="74" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="400" fill="#94A3B8">PHP</text>
-  <rect x="399" y="58" width="90" height="25" rx="5" fill="#111827" stroke="#1E293B"/>
-  <text x="444" y="74" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="400" fill="#94A3B8">TypeScript</text>
-  <text x="48" y="128" class="cat-head">IA &amp; DADOS / DATA &amp; AI</text>
-  <rect x="48" y="144" width="134" height="25" rx="5" fill="#1E293B" stroke="#3B82F6"/>
-  <text x="115" y="160" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600" fill="#FFFFFF">RAG Architecture</text>
-  <rect x="189" y="144" width="208" height="25" rx="5" fill="#1E293B" stroke="#3B82F6"/>
-  <text x="293" y="160" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600" fill="#FFFFFF">Embeddings &amp; Vector Search</text>
-  <rect x="404" y="144" width="164" height="25" rx="5" fill="#1E293B" stroke="#3B82F6"/>
-  <text x="486" y="160" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600" fill="#FFFFFF">Data Pipelines / ETL</text>
-  <rect x="48" y="176" width="75" height="25" rx="5" fill="#1E293B" stroke="#3B82F6"/>
-  <text x="85" y="192" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600" fill="#FFFFFF">Power BI</text>
-  <rect x="130" y="176" width="90" height="25" rx="5" fill="#1E293B" stroke="#3B82F6"/>
-  <text x="175" y="192" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600" fill="#FFFFFF">Agentic AI</text>
-  <rect x="227" y="176" width="215" height="25" rx="5" fill="#111827" stroke="#1E293B"/>
-  <text x="334" y="192" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="400" fill="#94A3B8">Snowflake Schema Data Marts</text>
-  <rect x="48" y="208" width="134" height="25" rx="5" fill="#111827" stroke="#1E293B"/>
-  <text x="115" y="224" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="400" fill="#94A3B8">Machine Learning</text>
-  <text x="48" y="218" class="cat-head">ERP &amp; SISTEMAS DE INFORMAÇÃO</text>
-  <rect x="48" y="234" width="215" height="25" rx="5" fill="#1E293B" stroke="#3B82F6"/>
-  <text x="155" y="250" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600" fill="#FFFFFF">BPMN 2.0 (Process Modeling)</text>
-  <rect x="270" y="234" width="82" height="25" rx="5" fill="#1E293B" stroke="#3B82F6"/>
-  <text x="311" y="250" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600" fill="#FFFFFF">OML / UML</text>
-  <rect x="359" y="234" width="127" height="25" rx="5" fill="#1E293B" stroke="#3B82F6"/>
-  <text x="422" y="250" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600" fill="#FFFFFF">ERP Foundations</text>
-  <rect x="48" y="266" width="201" height="25" rx="5" fill="#1E293B" stroke="#3B82F6"/>
-  <text x="148" y="282" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600" fill="#FFFFFF">SAP (Estudo &amp; Progressão)</text>
-  <rect x="256" y="266" width="245" height="25" rx="5" fill="#111827" stroke="#1E293B"/>
-  <text x="378" y="282" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="400" fill="#94A3B8">Análise de Processos de Negócio</text>
-  <rect x="48" y="298" width="193" height="25" rx="5" fill="#111827" stroke="#1E293B"/>
-  <text x="144" y="314" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="400" fill="#94A3B8">Engenharia de Requisitos</text>
-  <text x="640" y="42" class="cat-head">BASES DE DADOS &amp; PERSISTÊNCIA</text>
-  <rect x="640" y="58" width="90" height="25" rx="5" fill="#1E293B" stroke="#3B82F6"/>
-  <text x="685" y="74" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600" fill="#FFFFFF">PostgreSQL</text>
-  <rect x="737" y="58" width="75" height="25" rx="5" fill="#1E293B" stroke="#3B82F6"/>
-  <text x="774" y="74" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600" fill="#FFFFFF">pgvector</text>
-  <rect x="819" y="58" width="53" height="25" rx="5" fill="#111827" stroke="#1E293B"/>
-  <text x="845" y="74" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="400" fill="#94A3B8">MySQL</text>
-  <rect x="879" y="58" width="90" height="25" rx="5" fill="#111827" stroke="#1E293B"/>
-  <text x="924" y="74" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="400" fill="#94A3B8">SQL Server</text>
-  <rect x="976" y="58" width="164" height="25" rx="5" fill="#111827" stroke="#1E293B"/>
-  <text x="1058" y="74" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="400" fill="#94A3B8">Modelação Relacional</text>
-  <text x="640" y="128" class="cat-head">FERRAMENTAS, FRAMEWORKS &amp; INDUSTRIAL</text>
-  <rect x="640" y="144" width="67" height="25" rx="5" fill="#1E293B" stroke="#3B82F6"/>
-  <text x="673" y="160" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600" fill="#FFFFFF">FastAPI</text>
-  <rect x="714" y="144" width="82" height="25" rx="5" fill="#1E293B" stroke="#3B82F6"/>
-  <text x="755" y="160" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600" fill="#FFFFFF">Streamlit</text>
-  <rect x="803" y="144" width="171" height="25" rx="5" fill="#1E293B" stroke="#3B82F6"/>
-  <text x="888" y="160" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600" fill="#FFFFFF">Git &amp; GitHub Workflow</text>
-  <rect x="981" y="144" width="149" height="25" rx="5" fill="#1E293B" stroke="#3B82F6"/>
-  <text x="1055" y="160" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600" fill="#FFFFFF">LangChain / CrewAI</text>
-  <rect x="640" y="176" width="104" height="25" rx="5" fill="#111827" stroke="#1E293B"/>
-  <text x="692" y="192" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="400" fill="#94A3B8">RESTful APIs</text>
-  <rect x="751" y="176" width="156" height="25" rx="5" fill="#111827" stroke="#1E293B"/>
-  <text x="829" y="192" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="400" fill="#94A3B8">Fusion 360 (CAD/3D)</text>
-  <rect x="914" y="176" width="127" height="25" rx="5" fill="#111827" stroke="#1E293B"/>
-  <text x="977" y="192" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="400" fill="#94A3B8">LaserGRBL / CNC</text>
+  <rect width="1200" height="310" rx="14" fill="#0A101D" stroke="#2B374E" stroke-width="1.2"/>
+  <text x="48" y="42" class="cat-head">CORE PROGRAMMING LANGUAGES</text>
+  <rect x="48" y="58" width="63" height="26" rx="5" fill="#1E293B" stroke="#3B82F6" stroke-width="1.5"/>
+  <text x="79" y="75" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="700" fill="#FFFFFF">Python</text>
+  <rect x="119" y="58" width="40" height="26" rx="5" fill="#1E293B" stroke="#3B82F6" stroke-width="1.5"/>
+  <text x="139" y="75" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="700" fill="#FFFFFF">SQL</text>
+  <rect x="167" y="58" width="63" height="26" rx="5" fill="#1E293B" stroke="#3B82F6" stroke-width="1.5"/>
+  <text x="198" y="75" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="700" fill="#FFFFFF">PL/SQL</text>
+  <rect x="238" y="58" width="48" height="26" rx="5" fill="#141E33" stroke="#334155" stroke-width="1.2"/>
+  <text x="262" y="75" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="500" fill="#E2E8F0">Java</text>
+  <rect x="294" y="58" width="40" height="26" rx="5" fill="#141E33" stroke="#334155" stroke-width="1.2"/>
+  <text x="314" y="75" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="500" fill="#E2E8F0">C++</text>
+  <rect x="342" y="58" width="25" height="26" rx="5" fill="#141E33" stroke="#334155" stroke-width="1.2"/>
+  <text x="354" y="75" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="500" fill="#E2E8F0">C</text>
+  <rect x="375" y="58" width="40" height="26" rx="5" fill="#141E33" stroke="#334155" stroke-width="1.2"/>
+  <text x="395" y="75" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="500" fill="#E2E8F0">PHP</text>
+  <rect x="423" y="58" width="94" height="26" rx="5" fill="#141E33" stroke="#334155" stroke-width="1.2"/>
+  <text x="470" y="75" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="500" fill="#E2E8F0">TypeScript</text>
+  <text x="48" y="128" class="cat-head">ARTIFICIAL INTELLIGENCE &amp; DATA ENGINEERING</text>
+  <rect x="48" y="144" width="139" height="26" rx="5" fill="#1E293B" stroke="#3B82F6" stroke-width="1.5"/>
+  <text x="117" y="161" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="700" fill="#FFFFFF">RAG Architecture</text>
+  <rect x="195" y="144" width="215" height="26" rx="5" fill="#1E293B" stroke="#3B82F6" stroke-width="1.5"/>
+  <text x="302" y="161" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="700" fill="#FFFFFF">Embeddings &amp; Vector Search</text>
+  <rect x="48" y="176" width="170" height="26" rx="5" fill="#1E293B" stroke="#3B82F6" stroke-width="1.5"/>
+  <text x="133" y="193" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="700" fill="#FFFFFF">Data Pipelines / ETL</text>
+  <rect x="226" y="176" width="147" height="26" rx="5" fill="#1E293B" stroke="#3B82F6" stroke-width="1.5"/>
+  <text x="299" y="193" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="700" fill="#FFFFFF">Power BI Modeling</text>
+  <rect x="381" y="176" width="162" height="26" rx="5" fill="#1E293B" stroke="#3B82F6" stroke-width="1.5"/>
+  <text x="462" y="193" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="700" fill="#FFFFFF">Agentic AI (CrewAI)</text>
+  <rect x="48" y="208" width="223" height="26" rx="5" fill="#141E33" stroke="#334155" stroke-width="1.2"/>
+  <text x="159" y="225" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="500" fill="#E2E8F0">Snowflake Schema Data Marts</text>
+  <rect x="279" y="208" width="139" height="26" rx="5" fill="#141E33" stroke="#334155" stroke-width="1.2"/>
+  <text x="348" y="225" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="500" fill="#E2E8F0">Machine Learning</text>
+  <text x="48" y="218" class="cat-head">ENTERPRISE SYSTEMS &amp; PROCESS MODELING</text>
+  <rect x="48" y="234" width="223" height="26" rx="5" fill="#1E293B" stroke="#3B82F6" stroke-width="1.5"/>
+  <text x="159" y="251" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="700" fill="#FFFFFF">BPMN 2.0 (Process Modeling)</text>
+  <rect x="279" y="234" width="86" height="26" rx="5" fill="#1E293B" stroke="#3B82F6" stroke-width="1.5"/>
+  <text x="322" y="251" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="700" fill="#FFFFFF">OML / UML</text>
+  <rect x="373" y="234" width="132" height="26" rx="5" fill="#1E293B" stroke="#3B82F6" stroke-width="1.5"/>
+  <text x="439" y="251" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="700" fill="#FFFFFF">ERP Foundations</text>
+  <rect x="48" y="266" width="208" height="26" rx="5" fill="#1E293B" stroke="#3B82F6" stroke-width="1.5"/>
+  <text x="152" y="283" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="700" fill="#FFFFFF">SAP (Study &amp; Progression)</text>
+  <rect x="264" y="266" width="208" height="26" rx="5" fill="#141E33" stroke="#334155" stroke-width="1.2"/>
+  <text x="368" y="283" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="500" fill="#E2E8F0">Business Process Analysis</text>
+  <rect x="48" y="298" width="200" height="26" rx="5" fill="#141E33" stroke="#334155" stroke-width="1.2"/>
+  <text x="148" y="315" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="500" fill="#E2E8F0">Requirements Engineering</text>
+  <text x="640" y="42" class="cat-head">DATABASES &amp; PERSISTENCE LAYERS</text>
+  <rect x="640" y="58" width="94" height="26" rx="5" fill="#1E293B" stroke="#3B82F6" stroke-width="1.5"/>
+  <text x="687" y="75" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="700" fill="#FFFFFF">PostgreSQL</text>
+  <rect x="742" y="58" width="78" height="26" rx="5" fill="#1E293B" stroke="#3B82F6" stroke-width="1.5"/>
+  <text x="781" y="75" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="700" fill="#FFFFFF">pgvector</text>
+  <rect x="828" y="58" width="56" height="26" rx="5" fill="#141E33" stroke="#334155" stroke-width="1.2"/>
+  <text x="856" y="75" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="500" fill="#E2E8F0">MySQL</text>
+  <rect x="892" y="58" width="94" height="26" rx="5" fill="#141E33" stroke="#334155" stroke-width="1.2"/>
+  <text x="939" y="75" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="500" fill="#E2E8F0">SQL Server</text>
+  <rect x="640" y="90" width="215" height="26" rx="5" fill="#141E33" stroke="#334155" stroke-width="1.2"/>
+  <text x="747" y="107" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="500" fill="#E2E8F0">Relational Database Design</text>
+  <text x="640" y="128" class="cat-head">TOOLS, FRAMEWORKS &amp; AUTOMATION</text>
+  <rect x="640" y="144" width="71" height="26" rx="5" fill="#1E293B" stroke="#3B82F6" stroke-width="1.5"/>
+  <text x="675" y="161" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="700" fill="#FFFFFF">FastAPI</text>
+  <rect x="719" y="144" width="86" height="26" rx="5" fill="#1E293B" stroke="#3B82F6" stroke-width="1.5"/>
+  <text x="762" y="161" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="700" fill="#FFFFFF">Streamlit</text>
+  <rect x="813" y="144" width="177" height="26" rx="5" fill="#1E293B" stroke="#3B82F6" stroke-width="1.5"/>
+  <text x="901" y="161" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="700" fill="#FFFFFF">Git &amp; GitHub Workflow</text>
+  <rect x="640" y="176" width="230" height="26" rx="5" fill="#1E293B" stroke="#3B82F6" stroke-width="1.5"/>
+  <text x="755" y="193" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="700" fill="#FFFFFF">LangChain / AI Orchestration</text>
+  <rect x="878" y="176" width="109" height="26" rx="5" fill="#141E33" stroke="#334155" stroke-width="1.2"/>
+  <text x="932" y="193" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="500" fill="#E2E8F0">RESTful APIs</text>
+  <rect x="995" y="176" width="162" height="26" rx="5" fill="#141E33" stroke="#334155" stroke-width="1.2"/>
+  <text x="1076" y="193" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="500" fill="#E2E8F0">Fusion 360 (CAD/3D)</text>
+  <rect x="640" y="208" width="215" height="26" rx="5" fill="#141E33" stroke="#334155" stroke-width="1.2"/>
+  <text x="747" y="225" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="500" fill="#E2E8F0">LaserGRBL / CNC Automation</text>
 </svg>
