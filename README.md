@@ -48,7 +48,6 @@ A minha experiência inicial em ambientes industriais com máquinas CNC ensinou-
 <br/>
 
 ### Demonstrações &amp; Relatórios técnicos:
-- ⚡ **Mise — Receitas com IA:** [Aplicação Web em direto ↗](https://mise-recipe-agents.vercel.app/)
 - 🔬 **DermoScan AI:** [Demonstração Streamlit ↗](https://dermoscanai.streamlit.app/)
 - 📑 **Modelação de Processos &amp; OML:** [Relatório Técnico Optima (PDF) ↗](https://github.com/danielsilvaengpt/Business-Process-Modeling/blob/main/report/EO_Relatorio_Completo_Optima.pdf)
 - 📊 **BI &amp; Data Mart Portuário:** [Dashboards e Resultados em Power BI (PDF) ↗](https://github.com/danielsilvaengpt/An-lise-Dados-Portu-rio/blob/main/PowerBI_analise_Imagens_Resultados.pdf)
