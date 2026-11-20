@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="240" viewBox="0 0 590 240" role="img" aria-label="Data Mart Snowflake &amp; BI Portuário">
+  <defs>
+    <style>
+      .title { font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 19px; font-weight: 700; fill: #F8FAFC; }
+      .desc { font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 13.5px; fill: #94A3B8; }
+      .mono-meta { font-family: 'JetBrains Mono', monospace; font-size: 11px; font-weight: 600; letter-spacing: 1.8px; fill: #64748B; }
+      .mono-link { font-family: 'JetBrains Mono', monospace; font-size: 12px; fill: #64748B; }
+      .mono-btn { font-family: 'JetBrains Mono', monospace; font-size: 12px; font-weight: 600; fill: #60A5FA; }
+    </style>
+  </defs>
+
+  <!-- Card surface -->
+  <rect x=".5" y=".5" width="589" height="239" rx="12" fill="#111827" stroke="#1E293B"/>
+
+  <!-- Accent top line -->
+  <rect x="24" y="20" width="28" height="3" rx="1.5" fill="#3B82F6"/>
+
+  <!-- Category & Index -->
+  <text x="24" y="44" class="mono-meta">DATA ENGINEERING · BI</text>
+  <text x="566" y="44" text-anchor="end" class="mono-meta">03 // 2024</text>
+
+  <!-- Title -->
+  <text x="24" y="80" class="title">Data Mart Snowflake &amp; BI Portuário</text>
+
+  <!-- Description -->
+  <text x="24" y="108" class="desc">Data Mart em esquema Snowflake alimentado por pipeline ETL em Python,</text>
+  <text x="24" y="128" class="desc">consolidando dados portuários com 5 relatórios analíticos em Power BI.</text>
+
+  <!-- Tag Pills -->
+  <rect x="24" y="152" width="60" height="26" rx="5" fill="#1E293B" stroke="#334155"/>
+<text x="54" y="169" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" fill="#E2E8F0">Python</text>
+<rect x="92" y="152" width="90" height="26" rx="5" fill="#1E293B" stroke="#334155"/>
+<text x="137" y="169" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" fill="#E2E8F0">SQL Server</text>
+<rect x="190" y="152" width="75" height="26" rx="5" fill="#1E293B" stroke="#334155"/>
+<text x="227" y="169" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" fill="#E2E8F0">Power BI</text>
+<rect x="273" y="152" width="112" height="26" rx="5" fill="#1E293B" stroke="#334155"/>
+<text x="329" y="169" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" fill="#E2E8F0">ETL Pipelines</text>
+
+
+  <!-- Divider -->
+  <line x1="24" y1="194" x2="566" y2="194" stroke="#1E293B"/>
+
+  <!-- Footer link -->
+  <text x="24" y="219" class="mono-link">github.com/danielsilvaengpt/An-lise-Dados-Portu-rio</text>
+  <text x="566" y="219" text-anchor="end" class="mono-btn">Ver Projeto ↗</text>
+</svg>

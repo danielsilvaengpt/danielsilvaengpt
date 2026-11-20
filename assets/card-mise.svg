@@ -1,45 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="560" height="244" viewBox="0 0 560 244" role="img">
-  <title>Mise: Receitas com IA a partir da tua despensa · Agentic AI · RAG · CrewAI · FastAPI · React</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="240" viewBox="0 0 590 240" role="img" aria-label="Mise — Receitas com IA &amp; Brigada Agêntica">
   <defs>
     <style>
-      .mono {
-        font-family: "JetBrains Mono", "Courier New", Courier, monospace;
-      }
-      .sans {
-        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-      }
+      .title { font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 19px; font-weight: 700; fill: #F8FAFC; }
+      .desc { font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 13.5px; fill: #94A3B8; }
+      .mono-meta { font-family: 'JetBrains Mono', monospace; font-size: 11px; font-weight: 600; letter-spacing: 1.8px; fill: #64748B; }
+      .mono-link { font-family: 'JetBrains Mono', monospace; font-size: 12px; fill: #64748B; }
+      .mono-btn { font-family: 'JetBrains Mono', monospace; font-size: 12px; font-weight: 600; fill: #60A5FA; }
     </style>
   </defs>
 
-  <!-- Card background -->
-  <rect x=".5" y=".5" width="559" height="243" rx="16" fill="#0D1015" stroke="#232830"/>
+  <!-- Card surface -->
+  <rect x=".5" y=".5" width="589" height="239" rx="12" fill="#111827" stroke="#1E293B"/>
 
-  <!-- Subtle Agentic Network icon in top right -->
-  <g opacity="0.3" transform="translate(435, 24)">
-    <circle cx="20" cy="18" r="6" fill="none" stroke="#FFB020" stroke-width="1.5"/>
-    <circle cx="48" cy="10" r="5" fill="none" stroke="#FFB020" stroke-width="1.5"/>
-    <circle cx="48" cy="26" r="5" fill="none" stroke="#FFB020" stroke-width="1.5"/>
-    <circle cx="76" cy="18" r="6" fill="none" stroke="#FFB020" stroke-width="1.5"/>
-    <line x1="26" y1="18" x2="43" y2="10" stroke="#FFB020" stroke-width="1.2"/>
-    <line x1="26" y1="18" x2="43" y2="26" stroke="#FFB020" stroke-width="1.2"/>
-    <line x1="53" y1="10" x2="70" y2="18" stroke="#FFB020" stroke-width="1.2"/>
-    <line x1="53" y1="26" x2="70" y2="18" stroke="#FFB020" stroke-width="1.2"/>
-  </g>
+  <!-- Accent top line -->
+  <rect x="24" y="20" width="28" height="3" rx="1.5" fill="#F59E0B"/>
 
-  <!-- Amber accent bar -->
-  <rect x="32" y="26" width="30" height="3" rx="1.5" fill="#FFB020"/>
-
-  <!-- Category tag -->
-  <text x="32" y="58" class="mono" font-size="10" font-weight="600" fill="#8A919E" letter-spacing="1">AGENTIC AI · MULTI-AGENT · RAG</text>
+  <!-- Category & Index -->
+  <text x="24" y="44" class="mono-meta">AGENTIC AI · MULTI-AGENT</text>
+  <text x="566" y="44" text-anchor="end" class="mono-meta">01 // 2026</text>
 
   <!-- Title -->
-  <text x="32" y="100" class="sans" font-size="23" font-weight="700" fill="#E8EAED">Mise — Receitas com IA</text>
+  <text x="24" y="80" class="title">Mise — Receitas com IA &amp; Brigada Agêntica</text>
 
-  <!-- Description lines -->
-  <text x="32" y="128" class="sans" font-size="12" fill="#B4BAC4">Multi-agent system generating tailored recipes</text>
-  <text x="32" y="146" class="sans" font-size="12" fill="#B4BAC4">from actual pantry inventory with missing-item audit.</text>
-  <text x="32" y="164" class="sans" font-size="12" fill="#B4BAC4">Engineered with CDD methodology and CrewAI.</text>
+  <!-- Description -->
+  <text x="24" y="108" class="desc">Sistema multi-agente que gera receitas a partir da despensa real,</text>
+  <text x="24" y="128" class="desc">auditando ingredientes em falta. Desenvolvido com metodologia CDD.</text>
 
-  <!-- Tech stack footer -->
-  <text x="32" y="213" class="mono" font-size="11" fill="#FFB020">CrewAI · FastAPI · React 19 · TypeScript · RAG</text>
+  <!-- Tag Pills -->
+  <rect x="24" y="152" width="60" height="26" rx="5" fill="#1E293B" stroke="#334155"/>
+<text x="54" y="169" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" fill="#E2E8F0">CrewAI</text>
+<rect x="92" y="152" width="67" height="26" rx="5" fill="#1E293B" stroke="#334155"/>
+<text x="125" y="169" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" fill="#E2E8F0">FastAPI</text>
+<rect x="167" y="152" width="75" height="26" rx="5" fill="#1E293B" stroke="#334155"/>
+<text x="204" y="169" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" fill="#E2E8F0">React 19</text>
+<rect x="250" y="152" width="90" height="26" rx="5" fill="#1E293B" stroke="#334155"/>
+<text x="295" y="169" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" fill="#E2E8F0">TypeScript</text>
+<rect x="348" y="152" width="60" height="26" rx="5" fill="#1E293B" stroke="#334155"/>
+<text x="378" y="169" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11.5" fill="#E2E8F0">Python</text>
+
+
+  <!-- Divider -->
+  <line x1="24" y1="194" x2="566" y2="194" stroke="#1E293B"/>
+
+  <!-- Footer link -->
+  <text x="24" y="219" class="mono-link">github.com/danielsilvaengpt/mise-recipe-agents</text>
+  <text x="566" y="219" text-anchor="end" class="mono-btn">Ver Projeto ↗</text>
 </svg>

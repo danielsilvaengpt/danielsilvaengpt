@@ -1,1 +1,4 @@
-<svg width="200" height="44" viewBox="0 0 200 44" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Explore Portfolio ↗"><rect width="200" height="44" rx="6" fill="#E8E8E8"/><text x="100" y="27" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" font-weight="700" fill="#080808">Explore Portfolio ↗</text></svg>
+<svg width="200" height="44" viewBox="0 0 200 44" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Ver Portfolio ↗">
+  <rect width="200" height="44" rx="8" fill="#3B82F6"/>
+  <text x="100" y="27" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, sans-serif" font-size="14" font-weight="600" fill="#FFFFFF">Ver Portfólio ↗</text>
+</svg>
