@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="244" viewBox="0 0 560 244" role="img">
+  <title>Business Process Modeling &amp; OML: Industrial process analysis (AS-IS/TO-BE), BPMN and ERP foundations</title>
+  <defs>
+    <style>
+      .mono {
+        font-family: "JetBrains Mono", "Courier New", Courier, monospace;
+      }
+      .sans {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      }
+    </style>
+    <linearGradient id="bpmGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stopColor="#1E293B" stopOpacity="0.8"/>
+      <stop offset="100%" stopColor="#0F172A" stopOpacity="0.4"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Card background -->
+  <rect x=".5" y=".5" width="559" height="243" rx="16" fill="#0D1015" stroke="#232830"/>
+
+  <!-- Subtle BPMN Decorative icon in top right -->
+  <g opacity="0.3" transform="translate(425, 24)">
+    <circle cx="14" cy="18" r="8" fill="none" stroke="#3B82F6" stroke-width="1.8"/>
+    <line x1="22" y1="18" x2="38" y2="18" stroke="#3B82F6" stroke-width="1.5"/>
+    <rect x="38" y="8" width="36" height="20" rx="4" fill="none" stroke="#3B82F6" stroke-width="1.5"/>
+    <line x1="74" y1="18" x2="90" y2="18" stroke="#3B82F6" stroke-width="1.5"/>
+    <polygon points="90,18 97,11 104,18 97,25" fill="none" stroke="#F59E0B" stroke-width="1.5"/>
+  </g>
+
+  <!-- Primary accent bar (Blue/Linear style matching portfolio) -->
+  <rect x="32" y="26" width="30" height="3" rx="1.5" fill="#3B82F6"/>
+
+  <!-- Category tag -->
+  <text x="32" y="58" class="mono" font-size="10" font-weight="600" fill="#8A919E" letter-spacing="1">ENTERPRISE SYSTEMS · BPMN · OML</text>
+
+  <!-- Title -->
+  <text x="32" y="100" class="sans" font-size="23" font-weight="700" fill="#E8EAED">Business Process Modeling</text>
+
+  <!-- Description lines -->
+  <text x="32" y="128" class="sans" font-size="12" fill="#B4BAC4">Industrial business process analysis (AS-IS / TO-BE)</text>
+  <text x="32" y="146" class="sans" font-size="12" fill="#B4BAC4">using BPMN &amp; OML, establishing structural models</text>
+  <text x="32" y="164" class="sans" font-size="12" fill="#B4BAC4">and architectural foundations for ERP integration.</text>
+
+  <!-- Tech stack footer -->
+  <text x="32" y="213" class="mono" font-size="11" fill="#60A5FA">BPMN 2.0 · OML · Systems Analysis · ERP Foundations</text>
+</svg>
