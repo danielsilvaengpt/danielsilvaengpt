@@ -57,7 +57,7 @@ My background in industrial environments with CNC machinery instilled a deep dis
 
 ## Technical Skills &amp; Architecture Stack
 
-<img src="assets/skills.svg" alt="Technical Skills across the 5 Core Categories" width="100%"/>
+<img src="assets/skills-matrix.svg" alt="Technical Skills across the 5 Core Categories" width="100%"/>
 
 <br/>
 
